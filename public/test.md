@@ -1,8 +1,8 @@
 ---
 title: kkk
 tags:
-  - 1
-  - 2
+  - tag1
+  - tag22
 ---
 # hello
 world
